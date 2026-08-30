@@ -15,12 +15,10 @@
 
   Install dependencies:
 
+  ## Example Output
 
-  
-   ## Example Output
+**Time-domain EEG channels (first 10 channels, 5 seconds):**
+![Time domain plot](Figure_2.png)
 
-   **Time-domain EEG channels:**
-   ![Time domain plot](time_domain_plot.png)
-
-   **Power Spectral Density:**
-   ![PSD plot](psd_plot.png)
+**Power Spectral Density (frequency-domain analysis):**
+![PSD plot](Figure_1.png)
