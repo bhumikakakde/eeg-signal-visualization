@@ -14,3 +14,13 @@
   - matplotlib
 
   Install dependencies:
+
+
+  
+   ## Example Output
+
+   **Time-domain EEG channels:**
+   ![Time domain plot](time_domain_plot.png)
+
+   **Power Spectral Density:**
+   ![PSD plot](psd_plot.png)
